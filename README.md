@@ -1,4 +1,4 @@
-ASIDE-CodeAnnotate
+ASIDE-CodeAnnotate-for-Java
 ==================
 
-Interactive Static Analysis Plugin in Eclipse
+Interactive Static Analysis Plugin in Eclipse for Java
